@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-gunbansal.netlify.app/](https://portfolio-gunbansal.netlify.app/)
+- 👨‍💻 See my Portfolio <a href="https://portfolio-gunbansal.netlify.app/">Gun Bansal</a>
 
 - 💬 Ask me about **Mongodb, Express.js, react.js, Node.js**
 
