@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gun Bansal</h1>
 <h3 align="center">Final-year B.Tech CSE student at IET Lucknow, specializing in full-stack web development (MERN), Java, and DSA. I enjoy building practical, scalable applications and continuously improving my technical skills.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalgun31&label=Profile%20views&color=0e75b6&style=flat" alt="bansalgun31" /> </p>
+
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=bansalgun31" alt="bansalgun31" /></a> </p>
 
 - 🌱 I’m currently learning **Devops**
@@ -9,7 +11,7 @@
 
 - 💬 Ask me about **Mongodb, Express.js, react.js, Node.js**
 
-- 📫 How to reach me **bansalgun31@gmail.com**
+- 📫 How to reach me <a href="mailto:bansalgun31@gmail.com">Email me</a> 
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lCKOKpClej_FZzqPV4PimAbw-HFY7r6D/view?usp=drivesdk">Resume</a>
 
