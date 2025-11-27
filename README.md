@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bansalgun31@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lCKOKpClej_FZzqPV4PimAbw-HFY7r6D/view?usp=drivesdk](https://drive.google.com/file/d/1lCKOKpClej_FZzqPV4PimAbw-HFY7r6D/view?usp=drivesdk)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lCKOKpClej_FZzqPV4PimAbw-HFY7r6D/view?usp=drivesdk">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
