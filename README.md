@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Mongodb, Express.js, react.js, Node.js**
 
-- 📫 How to reach me <a href="mailto:bansalgun31@gmail.com">Email me</a> [mail me](mailto:bansalgun31@gmail.com)
+- 📫 How to reach me <a href="mailto:bansalgun31@gmail.com">Email me</a> [mail me](bansalgun31@gmail.com)
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lCKOKpClej_FZzqPV4PimAbw-HFY7r6D/view?usp=drivesdk">Resume</a>
 
